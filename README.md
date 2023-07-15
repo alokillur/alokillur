@@ -1,10 +1,9 @@
-<h1 align="center">Hi there, I'm Alok Illur</h1>
-<h3 align="center">A Java enthusiast and a competitive programmer</h3>
-
+<h1 align="center">Hi 👋, I'm Alok Illur</h1>
+<h3 align="center">A passionate Java enthusiast from India</h3>
 
 - 🔭 I’m currently working on **SpringBoot**
 
-- 🌱 I’m currently learning **JSP,THYMELEAF,SERVLETS**
+- 🌱 I’m currently learning **JSP,THYMELEAF,SERVELETS**
 
 - 🤝 I’m looking for help with **Banking Application**
 
@@ -18,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/alok illur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alok illur" height="30" width="40" /></a>
 <a href="https://instagram.com/alok_illur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alok_illur" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ai003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alokillur" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/alokillur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alokillur" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
