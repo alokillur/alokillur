@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alok Illur</h1>
-<h3 align="center">A passionate Java enthusiast from India</h3>
+<h1 align="center">Hi there, I'm Alok Illur</h1>
+<h3 align="center">A Java enthusiast and a competitive programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/01/35/92/85/1000_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 
 - 🔭 I’m currently working on **SpringBoot**
