@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SpringBoot**
 
-- 🌱 I’m currently learning **JSP,THYMELEAF,SERVLETS**
+- 🌱 I’m currently learning **AIML**
 
 - 🤝 I’m looking for help with **Banking Application**
 
