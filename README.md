@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alok Illur</h1>
 <h3 align="center">A passionate Java enthusiast and a competitive Programmer</h3>
 
-- 🔭 I’m currently working on **SpringBoot**
+- 🔭 I’m currently working on **SpringBoot, AIML**
 
-- 🌱 I’m currently learning **AIML**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alokillur?tab=repositories](https://github.com/alokillur?tab=repositories)
 
