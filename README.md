@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **AIML**
 
-- 🤝 I’m looking for help with **Banking Application**
-
 - 👨‍💻 All of my projects are available at [https://github.com/alokillur?tab=repositories](https://github.com/alokillur?tab=repositories)
 
 - 📫 How to reach me **alokillur99@gmail.com**
