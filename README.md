@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alok Illur</h1>
-<h3 align="center">A passionate Java enthusiast and a competitive Programmer</h3>
+<h3 align="center">Passionate about Java and fascinated by the world of machine learning.</h3>
 
 - 🔭 I’m currently working on **SpringBoot, AIML**
 
