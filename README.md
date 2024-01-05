@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alok Illur</h1>
 <h3 align="center">Passionate about Java and fascinated by the world of machine learning.</h3>
 
-- 🔭 I’m currently working on **SpringBoot, AIML**
+- 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **Machine Learning**
 
