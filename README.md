@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **AIOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alokillur?tab=repositories](https://github.com/alokillur?tab=repositories)
 
